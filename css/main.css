@@ -544,6 +544,9 @@ body {
 }
 }
 @media (max-width: 576px) {
+    .hero{
+        width: 100%;
+    }
     .hero__list{
         flex-direction: column;
     }
